@@ -18,14 +18,14 @@ Repositório dedicado a projetos de **Inteligência Artificial** e **Machine Lea
 - **Aplicação**: Classificação de flores Iris usando redes neurais básicas
 - **Conceitos**: Redes neurais artificiais, função sigmóide, algoritmo de treinamento iterativo
 
-### 🎯 **K-Nearest Neighbors (KNN) - Implementação Amanda**
+### 🎯 **K-Nearest Neighbors (KNN) - Implementação A**
 - **Arquivo**: `ML_knn_A.ipynb`
 - **Descrição**: Algoritmo KNN implementado com classe personalizada para classificação de vinhos
 - **Tecnologias**: Pandas, NumPy, Scikit-learn
 - **Aplicação**: Classificação de qualidade de vinhos (bom/ruim) baseada em características químicas
 - **Conceitos**: Algoritmos baseados em similaridade, normalização Min-Max, distâncias euclidianas
 
-### 🎯 **K-Nearest Neighbors (KNN) - Implementação Gubio**
+### 🎯 **K-Nearest Neighbors (KNN) - Implementação G**
 - **Arquivo**: `ML_knn_G.ipynb`
 - **Descrição**: Versão simplificada e direta do algoritmo KNN para classificação de vinhos
 - **Tecnologias**: Pandas, NumPy, Scikit-learn
